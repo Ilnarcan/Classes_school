@@ -8,7 +8,7 @@ int main() {
 
     int *b = &a;
 
-    system("pause"); 
+    system("pause");  
 
     return 1; 
     
