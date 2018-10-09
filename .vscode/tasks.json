@@ -6,14 +6,10 @@
         {
             "label": "echo",
             "type": "shell",
-<<<<<<< HEAD
             "command": "g++ -g main.cpp -o ${workspaceFolder}/university.exe",
             "options": {
                 "cwd": "${workspaceFolder}/source files"
             },
-=======
-            "command": "g++ -g ${workspaceFolder}/main.cpp -o university.exe",
->>>>>>> 8c6723ec493fd6d111480122acf2f3b1af46365e
             "group": {
                 "kind": "build",
                 "isDefault": true
