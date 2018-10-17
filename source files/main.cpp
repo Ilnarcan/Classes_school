@@ -10,6 +10,10 @@ int main() {
 
     int *b = &a;
 
+	// to commit
+	// second change
+	// for git diff
+
     system("pause");  
 
     return 1; 
